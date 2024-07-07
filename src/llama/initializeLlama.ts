@@ -1,11 +1,12 @@
 import {fileURLToPath} from "url";
 import path from "path";
-import {GeneralChatWrapper, getLlama, LlamaChatSession} from "node-llama-cpp";
+import {ChatHistoryItem, GeneralChatWrapper, getLlama, LlamaChatSession} from "node-llama-cpp";
 import { serviceLogger } from "../config/logger";
 
 const logger = serviceLogger('initializeLlama.ts');
 
 let session: LlamaChatSession;
+let initialChatHistory: ChatHistoryItem[];
 
 const initLlama = async () => {
   const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -28,10 +29,13 @@ const initLlama = async () => {
     chatWrapper: new GeneralChatWrapper()
   });
   logger.info("Session Initialized");
+
+  initialChatHistory = session.getChatHistory();
 }
 
 export {
-  session
+  session,
+  initialChatHistory
 }
 
 export default initLlama;

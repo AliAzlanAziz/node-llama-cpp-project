@@ -1,18 +1,14 @@
 import * as dotenv from 'dotenv';
-import connectDB  from './config/db';
 import initLlama from './llama/initializeLlama';
-import { startUserAnalyzer } from './analyzers/analyzeUser';
+import { run } from './analyzers/anaylzeAndRate';
 import { serviceLogger } from './config/logger';
 
 const logger = serviceLogger('index.ts');
 
-logger.info('Process Started!');
+logger.info('node-llama-cpp main process started!');
 
 dotenv.config({ path: __dirname + '/config/config.env' });
 
-const db = connectDB();
-const llama = initLlama();
+await initLlama();
 
-await Promise.all([db, llama])
-
-await startUserAnalyzer()
+await run()
