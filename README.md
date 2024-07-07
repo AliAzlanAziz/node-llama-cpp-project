@@ -1,13 +1,10 @@
-# Node + TypeScript + `node-llama-cpp`
-This template provides a minimal setup to get Node working with TypeScript and `node-llama-cpp`, and some ESLint rules.
+#### Get started
+Install node modules and download the model files used by `node-llama-cpp`: npm install
 
-## Get started
-Install node modules and download the model files used by `node-llama-cpp`:
-```bash
-npm install
-```
+#### Start the project:
+npm run start
 
-Start the project:
-```bash
-npm start
-```
+##### issues i came accross:
+[https://github.com/withcatai/node-llama-cpp/issues/263](conversation roles must alternate user/assitant/user/assistant/...)
+
+###### Node + TypeScript + `node-llama-cpp`: Generate the same template by: npm create --yes node-llama-cpp@beta
