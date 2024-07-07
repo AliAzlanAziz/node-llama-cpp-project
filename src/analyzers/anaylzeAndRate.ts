@@ -1,6 +1,6 @@
 import { serviceLogger } from "../config/logger";
 import { trashTexts } from "../dummy/dummyText";
-import { llamaGrammar, session } from "../llama/initializeLlama";
+import { session } from "../llama/initializeLlama";
 
 const logger = serviceLogger('analyzeAndRate.ts');
 

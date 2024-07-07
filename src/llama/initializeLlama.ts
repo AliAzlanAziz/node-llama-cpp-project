@@ -1,12 +1,11 @@
 import {fileURLToPath} from "url";
 import path from "path";
-import {GeneralChatWrapper, getLlama, LlamaChatSession, LlamaJsonSchemaGrammar} from "node-llama-cpp";
+import {GeneralChatWrapper, getLlama, LlamaChatSession} from "node-llama-cpp";
 import { serviceLogger } from "../config/logger";
 
 const logger = serviceLogger('initializeLlama.ts');
 
 let session: LlamaChatSession;
-let llamaGrammar: LlamaJsonSchemaGrammar<any>;
 
 const initLlama = async () => {
   const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -29,24 +28,10 @@ const initLlama = async () => {
     chatWrapper: new GeneralChatWrapper()
   });
   logger.info("Session Initialized");
-
-  llamaGrammar = await llama.createGrammarForJsonSchema({
-    type: "object",
-    properties: {
-      verbs: {
-        type: "array",
-        items: {
-          type: "string"
-        }
-      }
-    }
-  });
-  logger.info("Llama Grammar Initialized");
 }
 
 export {
-  session,
-  llamaGrammar
+  session
 }
 
 export default initLlama;
