@@ -1,6 +1,6 @@
 import { serviceLogger } from "../config/logger";
 import { trashTexts } from "../dummy/dummyText";
-import { session } from "../llama/initializeLlama";
+import { initialChatHistory, session } from "../llama/initializeLlama";
 
 const logger = serviceLogger('analyzeAndRate.ts');
 
@@ -10,6 +10,7 @@ export const runAnaylyzerAndRate = async (text: string) => {
     const startTime = Date.now();
 
     const response = await session.prompt(query);
+    session.setChatHistory(initialChatHistory)
 
     const endTime = Date.now();
     const duration = (endTime - startTime)/1000;
