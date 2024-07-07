@@ -1,10 +1,12 @@
 import path from 'path';
-import winston from 'winston'
+import winston from 'winston';
+import { rimraf } from 'rimraf';
 
 const date = new Date().toLocaleDateString().replaceAll('/','_',);
 const time = new Date().toLocaleTimeString().replaceAll(' ','-').replaceAll(':','_');
 const filename = `${date}_${time}.txt`
-console.log('filename: '+filename)
+
+await rimraf('C:/Users/AliAzlanAziz/Desktop/study/learning/js-projects/node-llama-cpp-project/src/logs')
 
 const mainLogger = winston.createLogger({
   format: winston.format.combine(

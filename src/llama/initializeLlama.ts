@@ -1,6 +1,6 @@
 import {fileURLToPath} from "url";
 import path from "path";
-import {getLlama, JinjaTemplateChatWrapper, LlamaChatSession, LlamaJsonSchemaGrammar, LlamaLogLevel} from "node-llama-cpp";
+import {GeneralChatWrapper, getLlama, LlamaChatSession, LlamaJsonSchemaGrammar} from "node-llama-cpp";
 import { serviceLogger } from "../config/logger";
 
 const logger = serviceLogger('initializeLlama.ts');
@@ -18,22 +18,15 @@ const initLlama = async () => {
 
   const model = await llama.loadModel({
     modelPath: path.join(modelsFolderDirectory, "Mistral-7B-Instruct-v0.3.Q5_K_M.gguf"),
-    gpuLayers: 'max'
   });
   logger.info("Model Loaded");
   
   const context = await model.createContext();
   logger.info("Context Created");
 
-  const chatWrapper = new JinjaTemplateChatWrapper({
-    template: model.fileInfo.metadata.tokenizer.chat_template!,
-    systemRoleName: 'assistant',
-    userRoleName: 'user',
-  })
-
   session = new LlamaChatSession({
     contextSequence: context.getSequence(),
-    chatWrapper
+    chatWrapper: new GeneralChatWrapper()
   });
   logger.info("Session Initialized");
 
@@ -49,7 +42,6 @@ const initLlama = async () => {
     }
   });
   logger.info("Llama Grammar Initialized");
-
 }
 
 export {

@@ -87,7 +87,7 @@ export const texts = [
   { text: "Space exploration has led to numerous technological innovations. Satellites provide data for communication, navigation, and environmental monitoring. Missions to other planets seek to uncover the mysteries of the cosmos and the potential for extraterrestrial life." },
 ];
 
-export const trashText = [
+export const trashTexts = [
   ...texts,
   { text: "Purple moonlight dances beyond the whispering gnome flutes." },
   { text: "Bubbles of laughter climb the spider's silky web of dreams." },

@@ -14,13 +14,6 @@ logger.info('Process Started!');
 
 dotenv.config({ path: __dirname + '/config/config.env' });
 
-// const db = connectDB();
-const llama = initLlama();
+const llama = await initLlama();
 
-// await Promise.all([db])
-// await startAnalyzer()
-
-await Promise.all([llama])
-await run()
-
-// await Promise.all([db, llama])
+await run();
