@@ -6,7 +6,7 @@ const logger = serviceLogger('analyzeUser.ts')
 
 interface AnalysisRating { fieldsPresence: number, contentQuality: number }
 
-export const startAnalyzer = async () => {
+export const startUserAnalyzer = async () => {
   const users = await User.findById("667d51b79e7472665905f9fd");
 
   if(!users){

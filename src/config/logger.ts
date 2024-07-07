@@ -1,10 +1,13 @@
 import path from 'path';
-import winston from 'winston'
+import { rimraf } from 'rimraf';
+import winston from 'winston';
 
 const date = new Date().toLocaleDateString().replaceAll('/','_',);
 const time = new Date().toLocaleTimeString().replaceAll(' ','-').replaceAll(':','_');
 const filename = `${date}_${time}.txt`
 console.log('filename: '+filename)
+
+await rimraf(path.join(__dirname, "..", "logs"))
 
 const mainLogger = winston.createLogger({
   format: winston.format.combine(

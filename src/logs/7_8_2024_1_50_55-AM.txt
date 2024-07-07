@@ -1,0 +1,521 @@
+{"level":"info","message":"Process Started!","service":"index.ts","timestamp":"2024-07-07T20:50:55.436Z"}
+{"level":"info","message":"Model Loaded","service":"initializeLlama.ts","timestamp":"2024-07-07T20:50:58.542Z"}
+{"level":"info","message":"Context Created","service":"initializeLlama.ts","timestamp":"2024-07-07T20:50:58.617Z"}
+{"level":"info","message":"Session Initialized","service":"initializeLlama.ts","timestamp":"2024-07-07T20:50:58.619Z"}
+{"level":"info","message":"Llama Grammar Initialized","service":"initializeLlama.ts","timestamp":"2024-07-07T20:50:58.621Z"}
+{"level":"info","message":"Index: 1","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:58.622Z"}
+{"level":"info","message":"Duration: 0.512s | Answer: 1 | Text: The rapid advancements in artificial int...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.134Z"}
+{"level":"info","message":"Index: 2","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.134Z"}
+{"level":"info","message":"Duration: 0.247s | Answer: 0 | Text: The universe is a vast and mysterious pl...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.382Z"}
+{"level":"info","message":"Index: 3","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.383Z"}
+{"level":"info","message":"Duration: 0.37s | Answer: 1 | Text: A well-prepared meal can be a source of ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.753Z"}
+{"level":"info","message":"Index: 4","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:50:59.753Z"}
+{"level":"info","message":"Duration: 0.363s | Answer: 1 | Text: In the world of science, breakthroughs a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.117Z"}
+{"level":"info","message":"Index: 5","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.118Z"}
+{"level":"info","message":"Duration: 0.355s | Answer: 0 | Text: Love is a powerful emotion that can brin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.473Z"}
+{"level":"info","message":"Index: 6","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.474Z"}
+{"level":"info","message":"Duration: 0.372s | Answer: 1 | Text: Movies are a form of storytelling that c...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.846Z"}
+{"level":"info","message":"Index: 7","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:00.847Z"}
+{"level":"info","message":"Duration: 0.356s | Answer: 1 | Text: The advent of renewable energy sources i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.203Z"}
+{"level":"info","message":"Index: 8","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.203Z"}
+{"level":"info","message":"Duration: 0.35s | Answer: 1 | Text: Space exploration has always been a fron...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.554Z"}
+{"level":"info","message":"Index: 9","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.555Z"}
+{"level":"info","message":"Duration: 0.366s | Answer: 1 | Text: The culinary world is vast and diverse, ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.921Z"}
+{"level":"info","message":"Index: 10","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:01.921Z"}
+{"level":"info","message":"Duration: 0.346s | Answer: 1 | Text: Advancements in medical technology are r...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.267Z"}
+{"level":"info","message":"Index: 11","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.267Z"}
+{"level":"info","message":"Duration: 0.356s | Answer: 1 | Text: The mysteries of the ocean depths contin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.624Z"}
+{"level":"info","message":"Index: 12","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.624Z"}
+{"level":"info","message":"Duration: 0.354s | Answer: 1 | Text: Music is a universal language that trans...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.978Z"}
+{"level":"info","message":"Index: 13","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:02.978Z"}
+{"level":"info","message":"Duration: 0.334s | Answer: 1 | Text: The digital age has transformed the way ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:03.312Z"}
+{"level":"info","message":"Index: 14","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:03.313Z"}
+{"level":"info","message":"Duration: 0.354s | Answer: 1 | Text: The study of genetics has opened new ave...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:03.667Z"}
+{"level":"info","message":"Index: 15","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:03.668Z"}
+{"level":"info","message":"Duration: 0.366s | Answer: 1 | Text: Art and creativity are fundamental aspec...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.034Z"}
+{"level":"info","message":"Index: 16","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.035Z"}
+{"level":"info","message":"Duration: 0.365s | Answer: 1 | Text: Environmental conservation is crucial fo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.400Z"}
+{"level":"info","message":"Index: 17","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.401Z"}
+{"level":"info","message":"Duration: 0.364s | Answer: 1 | Text: The field of robotics is advancing rapid...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.765Z"}
+{"level":"info","message":"Index: 18","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:04.766Z"}
+{"level":"info","message":"Duration: 0.365s | Answer: 1 | Text: Astronomy has always been a field that i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.131Z"}
+{"level":"info","message":"Index: 19","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.132Z"}
+{"level":"info","message":"Duration: 0.364s | Answer: 1 | Text: The culinary arts encompass a wide range...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.496Z"}
+{"level":"info","message":"Index: 20","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.496Z"}
+{"level":"info","message":"Duration: 0.347s | Answer: 1 | Text: Healthcare advancements continue to impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.844Z"}
+{"level":"info","message":"Index: 21","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:05.845Z"}
+{"level":"info","message":"Duration: 0.383s | Answer: 1 | Text: The exploration of space has led to nume...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.228Z"}
+{"level":"info","message":"Index: 22","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.228Z"}
+{"level":"info","message":"Duration: 0.388s | Answer: 1 | Text: The world of literature offers an endles...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.617Z"}
+{"level":"info","message":"Index: 23","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.617Z"}
+{"level":"info","message":"Duration: 0.374s | Answer: 1 | Text: Technological advancements in renewable ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.991Z"}
+{"level":"info","message":"Index: 24","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:06.991Z"}
+{"level":"info","message":"Duration: 0.397s | Answer: 1 | Text: The ocean remains one of the least explo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:07.388Z"}
+{"level":"info","message":"Index: 25","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:07.389Z"}
+{"level":"info","message":"Duration: 0.406s | Answer: 1 | Text: Music has the power to evoke a wide rang...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:07.795Z"}
+{"level":"info","message":"Index: 26","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:07.795Z"}
+{"level":"info","message":"Duration: 0.392s | Answer: 1 | Text: The rise of digital technology has revol...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.188Z"}
+{"level":"info","message":"Index: 27","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.188Z"}
+{"level":"info","message":"Duration: 0.394s | Answer: 1 | Text: Genetic research is uncovering the secre...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.582Z"}
+{"level":"info","message":"Index: 28","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.583Z"}
+{"level":"info","message":"Duration: 0.393s | Answer: 1 | Text: Artistic expression takes many forms, fr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.976Z"}
+{"level":"info","message":"Index: 29","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:08.977Z"}
+{"level":"info","message":"Duration: 0.399s | Answer: 1 | Text: Conservation efforts are essential for p...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:09.377Z"}
+{"level":"info","message":"Index: 30","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:09.377Z"}
+{"level":"info","message":"Duration: 0.411s | Answer: 1 | Text: Robotics technology is advancing at a ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:09.788Z"}
+{"level":"info","message":"Index: 31","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:09.789Z"}
+{"level":"info","message":"Duration: 0.411s | Answer: 1 | Text: Astronomy continues to reveal the wonder...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.200Z"}
+{"level":"info","message":"Index: 32","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.200Z"}
+{"level":"info","message":"Duration: 0.386s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.586Z"}
+{"level":"info","message":"Index: 33","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.587Z"}
+{"level":"info","message":"Duration: 0.384s | Answer: 1 | Text: Medical science is continually evolving,...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.971Z"}
+{"level":"info","message":"Index: 34","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:10.972Z"}
+{"level":"info","message":"Duration: 0.389s | Answer: 1 | Text: Space exploration has led to many techno...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:11.361Z"}
+{"level":"info","message":"Index: 35","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:11.362Z"}
+{"level":"info","message":"Duration: 0.394s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:11.756Z"}
+{"level":"info","message":"Index: 36","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:11.756Z"}
+{"level":"info","message":"Duration: 0.411s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:12.167Z"}
+{"level":"info","message":"Index: 37","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:12.168Z"}
+{"level":"info","message":"Duration: 0.419s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:12.587Z"}
+{"level":"info","message":"Index: 38","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:12.587Z"}
+{"level":"info","message":"Duration: 0.413s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.001Z"}
+{"level":"info","message":"Index: 39","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.002Z"}
+{"level":"info","message":"Duration: 0.435s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.437Z"}
+{"level":"info","message":"Index: 40","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.438Z"}
+{"level":"info","message":"Duration: 0.43s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.868Z"}
+{"level":"info","message":"Index: 41","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:13.869Z"}
+{"level":"info","message":"Duration: 0.459s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:14.328Z"}
+{"level":"info","message":"Index: 42","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:14.329Z"}
+{"level":"info","message":"Duration: 0.431s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:14.760Z"}
+{"level":"info","message":"Index: 43","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:14.761Z"}
+{"level":"info","message":"Duration: 0.437s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:15.198Z"}
+{"level":"info","message":"Index: 44","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:15.199Z"}
+{"level":"info","message":"Duration: 0.467s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:15.666Z"}
+{"level":"info","message":"Index: 45","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:15.667Z"}
+{"level":"info","message":"Duration: 0.454s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:16.121Z"}
+{"level":"info","message":"Index: 46","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:16.122Z"}
+{"level":"info","message":"Duration: 0.446s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:16.568Z"}
+{"level":"info","message":"Index: 47","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:16.569Z"}
+{"level":"info","message":"Duration: 0.49s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:17.059Z"}
+{"level":"info","message":"Index: 48","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:17.059Z"}
+{"level":"info","message":"Duration: 0.494s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:17.553Z"}
+{"level":"info","message":"Index: 49","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:17.554Z"}
+{"level":"info","message":"Duration: 0.476s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.030Z"}
+{"level":"info","message":"Index: 50","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.031Z"}
+{"level":"info","message":"Duration: 0.477s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.508Z"}
+{"level":"info","message":"Index: 51","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.508Z"}
+{"level":"info","message":"Duration: 0.48s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.988Z"}
+{"level":"info","message":"Index: 52","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:18.988Z"}
+{"level":"info","message":"Duration: 0.491s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:19.479Z"}
+{"level":"info","message":"Index: 53","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:19.479Z"}
+{"level":"info","message":"Duration: 0.494s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:19.973Z"}
+{"level":"info","message":"Index: 54","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:19.974Z"}
+{"level":"info","message":"Duration: 0.486s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:20.460Z"}
+{"level":"info","message":"Index: 55","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:20.461Z"}
+{"level":"info","message":"Duration: 0.486s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:20.947Z"}
+{"level":"info","message":"Index: 56","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:20.947Z"}
+{"level":"info","message":"Duration: 0.48s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:21.428Z"}
+{"level":"info","message":"Index: 57","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:21.429Z"}
+{"level":"info","message":"Duration: 0.513s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:21.942Z"}
+{"level":"info","message":"Index: 58","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:21.943Z"}
+{"level":"info","message":"Duration: 0.503s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:22.446Z"}
+{"level":"info","message":"Index: 59","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:22.446Z"}
+{"level":"info","message":"Duration: 0.483s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:22.930Z"}
+{"level":"info","message":"Index: 60","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:22.931Z"}
+{"level":"info","message":"Duration: 0.506s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:23.437Z"}
+{"level":"info","message":"Index: 61","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:23.438Z"}
+{"level":"info","message":"Duration: 0.493s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:23.931Z"}
+{"level":"info","message":"Index: 62","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:23.932Z"}
+{"level":"info","message":"Duration: 0.51s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:24.442Z"}
+{"level":"info","message":"Index: 63","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:24.443Z"}
+{"level":"info","message":"Duration: 0.524s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:24.967Z"}
+{"level":"info","message":"Index: 64","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:24.967Z"}
+{"level":"info","message":"Duration: 0.504s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:25.471Z"}
+{"level":"info","message":"Index: 65","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:25.471Z"}
+{"level":"info","message":"Duration: 0.538s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:26.010Z"}
+{"level":"info","message":"Index: 66","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:26.010Z"}
+{"level":"info","message":"Duration: 0.521s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:26.531Z"}
+{"level":"info","message":"Index: 67","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:26.531Z"}
+{"level":"info","message":"Duration: 0.538s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:27.070Z"}
+{"level":"info","message":"Index: 68","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:27.071Z"}
+{"level":"info","message":"Duration: 0.521s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:27.592Z"}
+{"level":"info","message":"Index: 69","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:27.592Z"}
+{"level":"info","message":"Duration: 0.529s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:28.122Z"}
+{"level":"info","message":"Index: 70","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:28.122Z"}
+{"level":"info","message":"Duration: 0.566s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:28.688Z"}
+{"level":"info","message":"Index: 71","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:28.688Z"}
+{"level":"info","message":"Duration: 0.546s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:29.235Z"}
+{"level":"info","message":"Index: 72","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:29.236Z"}
+{"level":"info","message":"Duration: 0.539s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:29.775Z"}
+{"level":"info","message":"Index: 73","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:29.776Z"}
+{"level":"info","message":"Duration: 0.564s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:30.340Z"}
+{"level":"info","message":"Index: 74","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:30.340Z"}
+{"level":"info","message":"Duration: 0.566s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:30.907Z"}
+{"level":"info","message":"Index: 75","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:30.907Z"}
+{"level":"info","message":"Duration: 0.555s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:31.462Z"}
+{"level":"info","message":"Index: 76","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:31.463Z"}
+{"level":"info","message":"Duration: 0.546s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:32.009Z"}
+{"level":"info","message":"Index: 77","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:32.009Z"}
+{"level":"info","message":"Duration: 0.552s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:32.561Z"}
+{"level":"info","message":"Index: 78","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:32.562Z"}
+{"level":"info","message":"Duration: 0.552s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:33.114Z"}
+{"level":"info","message":"Index: 79","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:33.115Z"}
+{"level":"info","message":"Duration: 0.559s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:33.675Z"}
+{"level":"info","message":"Index: 80","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:33.675Z"}
+{"level":"info","message":"Duration: 0.574s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:34.249Z"}
+{"level":"info","message":"Index: 81","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:34.250Z"}
+{"level":"info","message":"Duration: 0.557s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:34.807Z"}
+{"level":"info","message":"Index: 82","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:34.807Z"}
+{"level":"info","message":"Duration: 0.543s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:35.351Z"}
+{"level":"info","message":"Index: 83","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:35.351Z"}
+{"level":"info","message":"Duration: 0.58s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:35.932Z"}
+{"level":"info","message":"Index: 84","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:35.932Z"}
+{"level":"info","message":"Duration: 0.591s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:36.524Z"}
+{"level":"info","message":"Index: 85","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:36.525Z"}
+{"level":"info","message":"Duration: 0.57s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:37.095Z"}
+{"level":"info","message":"Index: 86","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:37.096Z"}
+{"level":"info","message":"Duration: 0.6s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:37.696Z"}
+{"level":"info","message":"Index: 87","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:37.696Z"}
+{"level":"info","message":"Duration: 0.612s | Answer: 1 | Text: The rapid advancements in artificial int...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:38.309Z"}
+{"level":"info","message":"Index: 88","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:38.310Z"}
+{"level":"info","message":"Duration: 0.618s | Answer: 1 | Text: The universe is a vast and mysterious pl...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:38.928Z"}
+{"level":"info","message":"Index: 89","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:38.929Z"}
+{"level":"info","message":"Duration: 0.655s | Answer: 1 | Text: A well-prepared meal can be a source of ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:39.584Z"}
+{"level":"info","message":"Index: 90","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:39.584Z"}
+{"level":"info","message":"Duration: 0.62s | Answer: 1 | Text: In the world of science, breakthroughs a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:40.204Z"}
+{"level":"info","message":"Index: 91","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:40.205Z"}
+{"level":"info","message":"Duration: 0.626s | Answer: 0 | Text: Love is a powerful emotion that can brin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:40.831Z"}
+{"level":"info","message":"Index: 92","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:40.832Z"}
+{"level":"info","message":"Duration: 0.653s | Answer: 1 | Text: Movies are a form of storytelling that c...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:41.485Z"}
+{"level":"info","message":"Index: 93","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:41.485Z"}
+{"level":"info","message":"Duration: 0.629s | Answer: 1 | Text: The advent of renewable energy sources i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:42.114Z"}
+{"level":"info","message":"Index: 94","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:42.115Z"}
+{"level":"info","message":"Duration: 0.637s | Answer: 1 | Text: Space exploration has always been a fron...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:42.752Z"}
+{"level":"info","message":"Index: 95","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:42.752Z"}
+{"level":"info","message":"Duration: 0.673s | Answer: 1 | Text: The culinary world is vast and diverse, ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:43.425Z"}
+{"level":"info","message":"Index: 96","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:43.426Z"}
+{"level":"info","message":"Duration: 0.631s | Answer: 1 | Text: Advancements in medical technology are r...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:44.057Z"}
+{"level":"info","message":"Index: 97","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:44.058Z"}
+{"level":"info","message":"Duration: 0.643s | Answer: 1 | Text: The mysteries of the ocean depths contin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:44.701Z"}
+{"level":"info","message":"Index: 98","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:44.701Z"}
+{"level":"info","message":"Duration: 14.193s | Answer: 1 | Text: Music is a universal language that trans...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:58.895Z"}
+{"level":"info","message":"Index: 99","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:58.896Z"}
+{"level":"info","message":"Duration: 0.415s | Answer: 1 | Text: The digital age has transformed the way ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:59.312Z"}
+{"level":"info","message":"Index: 100","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:59.313Z"}
+{"level":"info","message":"Duration: 0.427s | Answer: 1 | Text: The study of genetics has opened new ave...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:59.741Z"}
+{"level":"info","message":"Index: 101","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:51:59.741Z"}
+{"level":"info","message":"Duration: 0.428s | Answer: 1 | Text: Art and creativity are fundamental aspec...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:00.170Z"}
+{"level":"info","message":"Index: 102","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:00.171Z"}
+{"level":"info","message":"Duration: 0.429s | Answer: 1 | Text: Environmental conservation is crucial fo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:00.600Z"}
+{"level":"info","message":"Index: 103","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:00.600Z"}
+{"level":"info","message":"Duration: 0.428s | Answer: 1 | Text: The field of robotics is advancing rapid...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.029Z"}
+{"level":"info","message":"Index: 104","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.029Z"}
+{"level":"info","message":"Duration: 0.437s | Answer: 1 | Text: Astronomy has always been a field that i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.467Z"}
+{"level":"info","message":"Index: 105","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.467Z"}
+{"level":"info","message":"Duration: 0.422s | Answer: 1 | Text: The culinary arts encompass a wide range...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.890Z"}
+{"level":"info","message":"Index: 106","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:01.891Z"}
+{"level":"info","message":"Duration: 0.405s | Answer: 1 | Text: Healthcare advancements continue to impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:02.296Z"}
+{"level":"info","message":"Index: 107","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:02.297Z"}
+{"level":"info","message":"Duration: 0.43s | Answer: 1 | Text: The exploration of space has led to nume...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:02.727Z"}
+{"level":"info","message":"Index: 108","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:02.728Z"}
+{"level":"info","message":"Duration: 0.43s | Answer: 1 | Text: The world of literature offers an endles...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:03.158Z"}
+{"level":"info","message":"Index: 109","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:03.159Z"}
+{"level":"info","message":"Duration: 13.497s | Answer: 1 | Text: Technological advancements in renewable ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:16.656Z"}
+{"level":"info","message":"Index: 110","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:16.656Z"}
+{"level":"info","message":"Duration: 0.5s | Answer: 1 | Text: The ocean remains one of the least explo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:17.157Z"}
+{"level":"info","message":"Index: 111","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:17.158Z"}
+{"level":"info","message":"Duration: 0.524s | Answer: 1 | Text: Music has the power to evoke a wide rang...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:17.682Z"}
+{"level":"info","message":"Index: 112","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:17.683Z"}
+{"level":"info","message":"Duration: 0.52s | Answer: 1 | Text: The rise of digital technology has revol...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:18.203Z"}
+{"level":"info","message":"Index: 113","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:18.204Z"}
+{"level":"info","message":"Duration: 0.541s | Answer: 1 | Text: Genetic research is uncovering the secre...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:18.745Z"}
+{"level":"info","message":"Index: 114","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:18.746Z"}
+{"level":"info","message":"Duration: 0.537s | Answer: 1 | Text: Artistic expression takes many forms, fr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:19.283Z"}
+{"level":"info","message":"Index: 115","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:19.284Z"}
+{"level":"info","message":"Duration: 0.564s | Answer: 1 | Text: Conservation efforts are essential for p...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:19.848Z"}
+{"level":"info","message":"Index: 116","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:19.848Z"}
+{"level":"info","message":"Duration: 0.588s | Answer: 1 | Text: Robotics technology is advancing at a ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:20.437Z"}
+{"level":"info","message":"Index: 117","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:20.437Z"}
+{"level":"info","message":"Duration: 0.61s | Answer: 1 | Text: Astronomy continues to reveal the wonder...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:21.047Z"}
+{"level":"info","message":"Index: 118","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:21.048Z"}
+{"level":"info","message":"Duration: 0.589s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:21.637Z"}
+{"level":"info","message":"Index: 119","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:21.638Z"}
+{"level":"info","message":"Duration: 14.504s | Answer: 1 | Text: Medical science is continually evolving,...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:36.142Z"}
+{"level":"info","message":"Index: 120","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:36.143Z"}
+{"level":"info","message":"Duration: 0.46s | Answer: 1 | Text: Space exploration has led to many techno...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:36.604Z"}
+{"level":"info","message":"Index: 121","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:36.605Z"}
+{"level":"info","message":"Duration: 0.515s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:37.120Z"}
+{"level":"info","message":"Index: 122","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:37.120Z"}
+{"level":"info","message":"Duration: 0.548s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:37.668Z"}
+{"level":"info","message":"Index: 123","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:37.669Z"}
+{"level":"info","message":"Duration: 0.576s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:38.245Z"}
+{"level":"info","message":"Index: 124","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:38.245Z"}
+{"level":"info","message":"Duration: 0.583s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:38.829Z"}
+{"level":"info","message":"Index: 125","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:38.829Z"}
+{"level":"info","message":"Duration: 0.622s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:39.451Z"}
+{"level":"info","message":"Index: 126","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:39.451Z"}
+{"level":"info","message":"Duration: 0.597s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:40.050Z"}
+{"level":"info","message":"Index: 127","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:40.050Z"}
+{"level":"info","message":"Duration: 0.62s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:40.670Z"}
+{"level":"info","message":"Index: 128","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:40.670Z"}
+{"level":"info","message":"Duration: 0.586s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:41.256Z"}
+{"level":"info","message":"Index: 129","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:41.257Z"}
+{"level":"info","message":"Duration: 0.615s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:41.872Z"}
+{"level":"info","message":"Index: 130","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:41.872Z"}
+{"level":"info","message":"Duration: 14.191s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:56.063Z"}
+{"level":"info","message":"Index: 131","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:56.064Z"}
+{"level":"info","message":"Duration: 0.458s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:56.522Z"}
+{"level":"info","message":"Index: 132","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:56.523Z"}
+{"level":"info","message":"Duration: 0.498s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:57.021Z"}
+{"level":"info","message":"Index: 133","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:57.022Z"}
+{"level":"info","message":"Duration: 0.608s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:57.631Z"}
+{"level":"info","message":"Index: 134","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:57.631Z"}
+{"level":"info","message":"Duration: 0.615s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:58.247Z"}
+{"level":"info","message":"Index: 135","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:58.248Z"}
+{"level":"info","message":"Duration: 0.595s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:58.843Z"}
+{"level":"info","message":"Index: 136","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:58.844Z"}
+{"level":"info","message":"Duration: 0.593s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:59.437Z"}
+{"level":"info","message":"Index: 137","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:52:59.438Z"}
+{"level":"info","message":"Duration: 0.599s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:00.037Z"}
+{"level":"info","message":"Index: 138","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:00.037Z"}
+{"level":"info","message":"Duration: 0.6s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:00.638Z"}
+{"level":"info","message":"Index: 139","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:00.638Z"}
+{"level":"info","message":"Duration: 0.603s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:01.241Z"}
+{"level":"info","message":"Index: 140","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:01.242Z"}
+{"level":"info","message":"Duration: 0.597s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:01.840Z"}
+{"level":"info","message":"Index: 141","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:01.841Z"}
+{"level":"info","message":"Duration: 14.384s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:16.225Z"}
+{"level":"info","message":"Index: 142","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:16.225Z"}
+{"level":"info","message":"Duration: 0.466s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:16.692Z"}
+{"level":"info","message":"Index: 143","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:16.693Z"}
+{"level":"info","message":"Duration: 0.515s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:17.208Z"}
+{"level":"info","message":"Index: 144","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:17.208Z"}
+{"level":"info","message":"Duration: 0.554s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:17.763Z"}
+{"level":"info","message":"Index: 145","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:17.764Z"}
+{"level":"info","message":"Duration: 0.533s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:18.297Z"}
+{"level":"info","message":"Index: 146","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:18.298Z"}
+{"level":"info","message":"Duration: 0.57s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:18.868Z"}
+{"level":"info","message":"Index: 147","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:18.868Z"}
+{"level":"info","message":"Duration: 0.563s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:19.432Z"}
+{"level":"info","message":"Index: 148","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:19.433Z"}
+{"level":"info","message":"Duration: 0.609s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:20.042Z"}
+{"level":"info","message":"Index: 149","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:20.042Z"}
+{"level":"info","message":"Duration: 0.621s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:20.664Z"}
+{"level":"info","message":"Index: 150","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:20.665Z"}
+{"level":"info","message":"Duration: 0.593s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:21.258Z"}
+{"level":"info","message":"Index: 151","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:21.258Z"}
+{"level":"info","message":"Duration: 0.627s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:21.886Z"}
+{"level":"info","message":"Index: 152","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:21.887Z"}
+{"level":"info","message":"Duration: 14.185s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:36.072Z"}
+{"level":"info","message":"Index: 153","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:36.073Z"}
+{"level":"info","message":"Duration: 0.489s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:36.563Z"}
+{"level":"info","message":"Index: 154","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:36.563Z"}
+{"level":"info","message":"Duration: 0.501s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:37.065Z"}
+{"level":"info","message":"Index: 155","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:37.065Z"}
+{"level":"info","message":"Duration: 0.523s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:37.589Z"}
+{"level":"info","message":"Index: 156","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:37.589Z"}
+{"level":"info","message":"Duration: 0.577s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:38.166Z"}
+{"level":"info","message":"Index: 157","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:38.166Z"}
+{"level":"info","message":"Duration: 0.555s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:38.722Z"}
+{"level":"info","message":"Index: 158","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:38.723Z"}
+{"level":"info","message":"Duration: 0.559s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:39.282Z"}
+{"level":"info","message":"Index: 159","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:39.282Z"}
+{"level":"info","message":"Duration: 0.607s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:39.889Z"}
+{"level":"info","message":"Index: 160","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:39.889Z"}
+{"level":"info","message":"Duration: 0.615s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:40.504Z"}
+{"level":"info","message":"Index: 161","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:40.505Z"}
+{"level":"info","message":"Duration: 0.606s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:41.111Z"}
+{"level":"info","message":"Index: 162","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:41.111Z"}
+{"level":"info","message":"Duration: 0.605s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:41.717Z"}
+{"level":"info","message":"Index: 163","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:41.718Z"}
+{"level":"info","message":"Duration: 12.731s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:54.449Z"}
+{"level":"info","message":"Index: 164","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:54.450Z"}
+{"level":"info","message":"Duration: 0.434s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:54.884Z"}
+{"level":"info","message":"Index: 165","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:54.884Z"}
+{"level":"info","message":"Duration: 0.486s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:55.371Z"}
+{"level":"info","message":"Index: 166","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:55.372Z"}
+{"level":"info","message":"Duration: 0.511s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:55.884Z"}
+{"level":"info","message":"Index: 167","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:55.884Z"}
+{"level":"info","message":"Duration: 0.532s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:56.417Z"}
+{"level":"info","message":"Index: 168","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:56.417Z"}
+{"level":"info","message":"Duration: 0.537s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:56.955Z"}
+{"level":"info","message":"Index: 169","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:56.956Z"}
+{"level":"info","message":"Duration: 0.571s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:57.527Z"}
+{"level":"info","message":"Index: 170","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:57.528Z"}
+{"level":"info","message":"Duration: 0.574s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:58.102Z"}
+{"level":"info","message":"Index: 171","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:58.103Z"}
+{"level":"info","message":"Duration: 0.562s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:58.665Z"}
+{"level":"info","message":"Index: 172","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:58.665Z"}
+{"level":"info","message":"Duration: 0.6s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:59.266Z"}
+{"level":"info","message":"Index: 173","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:59.266Z"}
+{"level":"info","message":"Duration: 0.613s | Answer: 1 | Text: The rapid advancements in artificial int...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:59.879Z"}
+{"level":"info","message":"Index: 174","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:53:59.880Z"}
+{"level":"info","message":"Duration: 0.628s | Answer: 1 | Text: The universe is a vast and mysterious pl...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:00.508Z"}
+{"level":"info","message":"Index: 175","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:00.508Z"}
+{"level":"info","message":"Duration: 0.657s | Answer: 1 | Text: A well-prepared meal can be a source of ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:01.165Z"}
+{"level":"info","message":"Index: 176","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:01.165Z"}
+{"level":"info","message":"Duration: 0.631s | Answer: 1 | Text: In the world of science, breakthroughs a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:01.797Z"}
+{"level":"info","message":"Index: 177","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:01.797Z"}
+{"level":"info","message":"Duration: 0.639s | Answer: 0 | Text: Love is a powerful emotion that can brin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:02.437Z"}
+{"level":"info","message":"Index: 178","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:02.438Z"}
+{"level":"info","message":"Duration: 0.66s | Answer: 1 | Text: Movies are a form of storytelling that c...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:03.098Z"}
+{"level":"info","message":"Index: 179","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:03.099Z"}
+{"level":"info","message":"Duration: 0.64s | Answer: 1 | Text: The advent of renewable energy sources i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:03.739Z"}
+{"level":"info","message":"Index: 180","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:03.739Z"}
+{"level":"info","message":"Duration: 10.36s | Answer: 1 | Text: Space exploration has always been a fron...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:14.099Z"}
+{"level":"info","message":"Index: 181","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:14.099Z"}
+{"level":"info","message":"Duration: 0.46s | Answer: 1 | Text: The culinary world is vast and diverse, ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:14.560Z"}
+{"level":"info","message":"Index: 182","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:14.561Z"}
+{"level":"info","message":"Duration: 0.494s | Answer: 1 | Text: Advancements in medical technology are r...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:15.055Z"}
+{"level":"info","message":"Index: 183","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:15.055Z"}
+{"level":"info","message":"Duration: 0.547s | Answer: 1 | Text: The mysteries of the ocean depths contin...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:15.603Z"}
+{"level":"info","message":"Index: 184","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:15.604Z"}
+{"level":"info","message":"Duration: 0.574s | Answer: 1 | Text: Music is a universal language that trans...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:16.178Z"}
+{"level":"info","message":"Index: 185","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:16.178Z"}
+{"level":"info","message":"Duration: 0.567s | Answer: 1 | Text: The digital age has transformed the way ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:16.745Z"}
+{"level":"info","message":"Index: 186","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:16.746Z"}
+{"level":"info","message":"Duration: 0.584s | Answer: 1 | Text: The study of genetics has opened new ave...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:17.330Z"}
+{"level":"info","message":"Index: 187","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:17.330Z"}
+{"level":"info","message":"Duration: 0.589s | Answer: 1 | Text: Art and creativity are fundamental aspec...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:17.920Z"}
+{"level":"info","message":"Index: 188","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:17.921Z"}
+{"level":"info","message":"Duration: 0.593s | Answer: 1 | Text: Environmental conservation is crucial fo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:18.514Z"}
+{"level":"info","message":"Index: 189","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:18.514Z"}
+{"level":"info","message":"Duration: 0.598s | Answer: 1 | Text: The field of robotics is advancing rapid...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:19.113Z"}
+{"level":"info","message":"Index: 190","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:19.113Z"}
+{"level":"info","message":"Duration: 0.617s | Answer: 1 | Text: Astronomy has always been a field that i...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:19.731Z"}
+{"level":"info","message":"Index: 191","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:19.731Z"}
+{"level":"info","message":"Duration: 0.598s | Answer: 1 | Text: The culinary arts encompass a wide range...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:20.330Z"}
+{"level":"info","message":"Index: 192","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:20.331Z"}
+{"level":"info","message":"Duration: 0.573s | Answer: 1 | Text: Healthcare advancements continue to impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:20.904Z"}
+{"level":"info","message":"Index: 193","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:20.905Z"}
+{"level":"info","message":"Duration: 0.607s | Answer: 1 | Text: The exploration of space has led to nume...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:21.512Z"}
+{"level":"info","message":"Index: 194","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:21.512Z"}
+{"level":"info","message":"Duration: 0.61s | Answer: 1 | Text: The world of literature offers an endles...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:22.123Z"}
+{"level":"info","message":"Index: 195","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:22.123Z"}
+{"level":"info","message":"Duration: 0.592s | Answer: 1 | Text: Technological advancements in renewable ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:22.715Z"}
+{"level":"info","message":"Index: 196","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:22.716Z"}
+{"level":"info","message":"Duration: 0.62s | Answer: 1 | Text: The ocean remains one of the least explo...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:23.336Z"}
+{"level":"info","message":"Index: 197","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:23.337Z"}
+{"level":"info","message":"Duration: 0.635s | Answer: 1 | Text: Music has the power to evoke a wide rang...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:23.972Z"}
+{"level":"info","message":"Index: 198","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:23.973Z"}
+{"level":"info","message":"Duration: 0.597s | Answer: 1 | Text: The rise of digital technology has revol...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:24.570Z"}
+{"level":"info","message":"Index: 199","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:24.571Z"}
+{"level":"info","message":"Duration: 0.609s | Answer: 1 | Text: Genetic research is uncovering the secre...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:25.180Z"}
+{"level":"info","message":"Index: 200","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:25.180Z"}
+{"level":"info","message":"Duration: 0.609s | Answer: 1 | Text: Artistic expression takes many forms, fr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:25.789Z"}
+{"level":"info","message":"Index: 201","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:25.790Z"}
+{"level":"info","message":"Duration: 0.607s | Answer: 1 | Text: Conservation efforts are essential for p...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:26.397Z"}
+{"level":"info","message":"Index: 202","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:26.397Z"}
+{"level":"info","message":"Duration: 0.626s | Answer: 1 | Text: Robotics technology is advancing at a ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:27.024Z"}
+{"level":"info","message":"Index: 203","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:27.024Z"}
+{"level":"info","message":"Duration: 0.653s | Answer: 1 | Text: Astronomy continues to reveal the wonder...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:27.678Z"}
+{"level":"info","message":"Index: 204","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:27.678Z"}
+{"level":"info","message":"Duration: 0.617s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:28.296Z"}
+{"level":"info","message":"Index: 205","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:28.296Z"}
+{"level":"info","message":"Duration: 0.613s | Answer: 1 | Text: Medical science is continually evolving,...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:28.910Z"}
+{"level":"info","message":"Index: 206","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:28.910Z"}
+{"level":"info","message":"Duration: 0.629s | Answer: 1 | Text: Space exploration has led to many techno...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:29.539Z"}
+{"level":"info","message":"Index: 207","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:29.540Z"}
+{"level":"info","message":"Duration: 0.629s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:30.169Z"}
+{"level":"info","message":"Index: 208","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:30.169Z"}
+{"level":"info","message":"Duration: 0.646s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:30.816Z"}
+{"level":"info","message":"Index: 209","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:30.817Z"}
+{"level":"info","message":"Duration: 0.668s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:31.485Z"}
+{"level":"info","message":"Index: 210","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:31.485Z"}
+{"level":"info","message":"Duration: 0.647s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:32.133Z"}
+{"level":"info","message":"Index: 211","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:32.134Z"}
+{"level":"info","message":"Duration: 5.906s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.040Z"}
+{"level":"info","message":"Index: 212","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.041Z"}
+{"level":"info","message":"Duration: 0.326s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.368Z"}
+{"level":"info","message":"Index: 213","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.368Z"}
+{"level":"info","message":"Duration: 0.379s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.748Z"}
+{"level":"info","message":"Index: 214","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:38.748Z"}
+{"level":"info","message":"Duration: 0.383s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:39.132Z"}
+{"level":"info","message":"Index: 215","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:39.132Z"}
+{"level":"info","message":"Duration: 0.405s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:39.538Z"}
+{"level":"info","message":"Index: 216","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:39.538Z"}
+{"level":"info","message":"Duration: 0.467s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.005Z"}
+{"level":"info","message":"Index: 217","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.006Z"}
+{"level":"info","message":"Duration: 0.476s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.482Z"}
+{"level":"info","message":"Index: 218","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.483Z"}
+{"level":"info","message":"Duration: 0.479s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.962Z"}
+{"level":"info","message":"Index: 219","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:40.963Z"}
+{"level":"info","message":"Duration: 0.501s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:41.464Z"}
+{"level":"info","message":"Index: 220","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:41.465Z"}
+{"level":"info","message":"Duration: 0.504s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:41.969Z"}
+{"level":"info","message":"Index: 221","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:41.969Z"}
+{"level":"info","message":"Duration: 0.486s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:42.456Z"}
+{"level":"info","message":"Index: 222","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:42.456Z"}
+{"level":"info","message":"Duration: 0.499s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:42.956Z"}
+{"level":"info","message":"Index: 223","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:42.957Z"}
+{"level":"info","message":"Duration: 0.498s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:43.455Z"}
+{"level":"info","message":"Index: 224","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:43.456Z"}
+{"level":"info","message":"Duration: 0.505s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:43.961Z"}
+{"level":"info","message":"Index: 225","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:43.961Z"}
+{"level":"info","message":"Duration: 0.5s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:44.463Z"}
+{"level":"info","message":"Index: 226","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:44.463Z"}
+{"level":"info","message":"Duration: 0.505s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:44.968Z"}
+{"level":"info","message":"Index: 227","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:44.969Z"}
+{"level":"info","message":"Duration: 0.489s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:45.458Z"}
+{"level":"info","message":"Index: 228","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:45.458Z"}
+{"level":"info","message":"Duration: 0.507s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:45.966Z"}
+{"level":"info","message":"Index: 229","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:45.966Z"}
+{"level":"info","message":"Duration: 0.529s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:46.496Z"}
+{"level":"info","message":"Index: 230","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:46.497Z"}
+{"level":"info","message":"Duration: 0.54s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:47.037Z"}
+{"level":"info","message":"Index: 231","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:47.038Z"}
+{"level":"info","message":"Duration: 0.52s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:47.558Z"}
+{"level":"info","message":"Index: 232","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:47.558Z"}
+{"level":"info","message":"Duration: 0.551s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:48.110Z"}
+{"level":"info","message":"Index: 233","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:48.111Z"}
+{"level":"info","message":"Duration: 0.529s | Answer: 1 | Text: Literature offers a wealth of stories an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:48.640Z"}
+{"level":"info","message":"Index: 234","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:48.640Z"}
+{"level":"info","message":"Duration: 0.548s | Answer: 1 | Text: Renewable energy technologies are crucia...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:49.189Z"}
+{"level":"info","message":"Index: 235","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:49.190Z"}
+{"level":"info","message":"Duration: 0.548s | Answer: 1 | Text: The ocean's depths hold many secrets wai...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:49.739Z"}
+{"level":"info","message":"Index: 236","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:49.739Z"}
+{"level":"info","message":"Duration: 0.534s | Answer: 1 | Text: Music is a powerful form of expression t...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:50.273Z"}
+{"level":"info","message":"Index: 237","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:50.273Z"}
+{"level":"info","message":"Duration: 0.557s | Answer: 1 | Text: Digital technology has transformed the w...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:50.831Z"}
+{"level":"info","message":"Index: 238","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:50.831Z"}
+{"level":"info","message":"Duration: 0.546s | Answer: 1 | Text: Genetic research is unlocking new insigh...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:51.378Z"}
+{"level":"info","message":"Index: 239","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:51.379Z"}
+{"level":"info","message":"Duration: 0.559s | Answer: 1 | Text: Artistic creativity enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:51.938Z"}
+{"level":"info","message":"Index: 240","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:51.939Z"}
+{"level":"info","message":"Duration: 0.537s | Answer: 1 | Text: Environmental conservation is critical f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:52.476Z"}
+{"level":"info","message":"Index: 241","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:52.477Z"}
+{"level":"info","message":"Duration: 0.553s | Answer: 1 | Text: The field of robotics continues to evolv...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:53.030Z"}
+{"level":"info","message":"Index: 242","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:53.030Z"}
+{"level":"info","message":"Duration: 0.577s | Answer: 1 | Text: Astronomy explores the mysteries of the ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:53.607Z"}
+{"level":"info","message":"Index: 243","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:53.607Z"}
+{"level":"info","message":"Duration: 0.567s | Answer: 1 | Text: The culinary arts bring joy and creativi...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:54.174Z"}
+{"level":"info","message":"Index: 244","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:54.175Z"}
+{"level":"info","message":"Duration: 0.545s | Answer: 1 | Text: Medical advancements continue to improve...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:54.720Z"}
+{"level":"info","message":"Index: 245","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:54.720Z"}
+{"level":"info","message":"Duration: 0.596s | Answer: 1 | Text: Space exploration inspires innovation an...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:55.317Z"}
+{"level":"info","message":"Index: 246","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:55.317Z"}
+{"level":"info","message":"Duration: 0.588s | Answer: 1 | Text: Literature offers a vast array of storie...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:55.906Z"}
+{"level":"info","message":"Index: 247","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:55.907Z"}
+{"level":"info","message":"Duration: 0.567s | Answer: 1 | Text: Renewable energy sources are essential f...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:56.474Z"}
+{"level":"info","message":"Index: 248","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:56.474Z"}
+{"level":"info","message":"Duration: 0.575s | Answer: 1 | Text: The ocean is home to diverse ecosystems ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:57.050Z"}
+{"level":"info","message":"Index: 249","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:57.050Z"}
+{"level":"info","message":"Duration: 0.577s | Answer: 1 | Text: Music has the ability to evoke a wide ra...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:57.628Z"}
+{"level":"info","message":"Index: 250","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:57.629Z"}
+{"level":"info","message":"Duration: 0.582s | Answer: 1 | Text: Digital technology has revolutionized co...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:58.211Z"}
+{"level":"info","message":"Index: 251","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:58.211Z"}
+{"level":"info","message":"Duration: 0.587s | Answer: 1 | Text: Genetic research is advancing our unders...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:58.799Z"}
+{"level":"info","message":"Index: 252","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:58.799Z"}
+{"level":"info","message":"Duration: 0.581s | Answer: 1 | Text: Artistic expression enriches our lives a...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:59.381Z"}
+{"level":"info","message":"Index: 253","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:59.382Z"}
+{"level":"info","message":"Duration: 0.583s | Answer: 1 | Text: Environmental conservation is vital for ...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:59.966Z"}
+{"level":"info","message":"Index: 254","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:54:59.966Z"}
+{"level":"info","message":"Duration: 0.573s | Answer: 1 | Text: The field of robotics is making signific...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:00.540Z"}
+{"level":"info","message":"Index: 255","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:00.541Z"}
+{"level":"info","message":"Duration: 0.614s | Answer: 1 | Text: Astronomy continues to uncover the wonde...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:01.155Z"}
+{"level":"info","message":"Index: 256","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:01.156Z"}
+{"level":"info","message":"Duration: 0.61s | Answer: 1 | Text: The culinary arts celebrate the diversit...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:01.766Z"}
+{"level":"info","message":"Index: 257","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:01.766Z"}
+{"level":"info","message":"Duration: 0.584s | Answer: 1 | Text: Advancements in medical science are impr...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:02.351Z"}
+{"level":"info","message":"Index: 258","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:02.352Z"}
+{"level":"info","message":"Duration: 0.621s | Answer: 1 | Text: Space exploration has led to numerous te...","service":"analyzeAndRate.ts","timestamp":"2024-07-07T20:55:02.973Z"}
