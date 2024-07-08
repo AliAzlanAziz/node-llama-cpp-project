@@ -26,7 +26,7 @@ const initLlama = async () => {
 
   session = new LlamaChatSession({
     contextSequence: context.getSequence(),
-    chatWrapper: new GeneralChatWrapper()
+    chatWrapper: new GeneralChatWrapper() // if I use no chat wrapper then with no chat history error of alternate user roles won't appear
   });
   logger.info("Session Initialized");
 
