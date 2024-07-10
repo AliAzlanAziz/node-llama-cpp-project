@@ -10,6 +10,7 @@ console.log('filename: '+filename)
 await rimraf(path.join(__dirname, "..", "logs"))
 
 const mainLogger = winston.createLogger({
+  level: 'info',
   format: winston.format.combine(
     winston.format.timestamp(), 
     winston.format.json()

@@ -15,16 +15,16 @@ export const runAnaylyzerAndRate = async (text: string) => {
     const endTime = Date.now();
     const duration = (endTime - startTime)/1000;
 
-    logger.info(`Duration: ${duration}s | Answer: ${response} | Text: ${text.substring(0, 40)}...`);
+    logger.debug(`Duration: ${duration}s | Answer: ${response} | Text: ${text.substring(0, 40)}...`);
 }
 
 export const run = async () => {
     try{
         for(let i=0; i<trashTexts.length; i++){
-            logger.info(`Index: ${i+1}`)
+            logger.debug(`Index: ${i+1}`)
             await runAnaylyzerAndRate(trashTexts[i].text)
         }
     } catch(error) {
-        logger.info(error)
+        logger.debug(error)
     }
 }

@@ -9,8 +9,8 @@ const connectDB = async () => {
         const conn = await connect(process.env.MONGO_URI as string)
 
         logger.info(`MongoDB connected at host: ${conn.connection.host}`)
-    } catch(err) {
-        logger.info(err)
+    } catch(error) {
+        logger.error(error)
         process.exit(1)
     }
 }
@@ -20,14 +20,14 @@ mongoose.connection.on('connected', () => {
 });
 
 mongoose.connection.on('error', (err) => {
-    console.error('Mongoose connection error: ' + err);
+    logger.error('Mongoose connection error: ' + err);
 });
 
 mongoose.connection.on('disconnected', () => {
     logger.info('Mongoose disconnected!');
 });
 
-// Function to gracefully close the Mongoose connection
+// function to gracefully close the Mongoose connection
 const gracefulExit = async () => {
     await mongoose.connection.close();
     logger.info('Mongoose connection closed through app termination');
