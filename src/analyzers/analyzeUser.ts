@@ -28,13 +28,14 @@ export const startUserAnalyzer = async () => {
     let analysisRating: AnalysisRating = {
       fieldsPresence: 0,
       contentQuality: 0,
-      tags: ''
+      tags: '',
+      meta: {}
     }
 
     analysisRating = await analyzeUserProfile(users[i], analysisRating)
     users[i].points = analysisRating.fieldsPresence + analysisRating.contentQuality;
     users[i].tags = analysisRating.tags;
-
+    
     await users[i].save();
   }
 
@@ -50,6 +51,7 @@ const analyzeUserProfile = async (user: any, analysisRating: AnalysisRating): Pr
   analysisRating = await analyzeCertificate(user, analysisRating)
   analysisRating = await analyzeProject(user, analysisRating)
   analysisRating = await analyzeAward(user, analysisRating)
+  analysisRating = optimizeTags(analysisRating)
 
   logger.info({name: user.name, username: user.username})
   logger.info(analysisRating)
@@ -601,4 +603,23 @@ const parsePointsFromResponse = (response: any): number => {
     logger.error(error)
     return 0;
   }
+}
+
+const optimizeTags = (analysisRating: AnalysisRating): AnalysisRating => {
+  const tagsStringArray = analysisRating.tags.toLowerCase().split(' ')
+  const tagsDict: any = {}  
+
+  tagsStringArray.forEach(tag => {
+    if(tagsDict[tag] == null || tagsDict[tag] == undefined){
+      tagsDict[tag] = 1
+    }
+  })
+  const uniqueTags = Object.keys(tagsDict).map(key => key)
+
+  analysisRating = {
+    ...analysisRating,
+    tags: uniqueTags.join(' ')
+  }
+
+  return analysisRating;
 }
